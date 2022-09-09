@@ -1,0 +1,27 @@
+{
+    "id": "564E42A4",
+    "path": "~/projects/R/wordle/wordle/scripts/utils.R",
+    "project_path": "wordle/scripts/utils.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1662672749571.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "475,29",
+        "scrollLine": "467",
+        "marks": "<:478,20\n>:485,49"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1662655045,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1662655045,
+    "read_only": false,
+    "read_only_alternatives": []
+}

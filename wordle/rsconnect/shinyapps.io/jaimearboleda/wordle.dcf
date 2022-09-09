@@ -1,0 +1,13 @@
+name: wordle
+title:
+username:
+account: jaimearboleda
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6959103
+bundleId: 6283221
+url: https://jaimearboleda.shinyapps.io/wordle/
+when: 1662674512.70127
+lastSyncTime: 1662674512.70129
+asMultiple: FALSE
+asStatic: FALSE

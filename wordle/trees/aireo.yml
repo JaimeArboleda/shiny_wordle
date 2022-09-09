@@ -1,0 +1,3487 @@
+|
+  name: start
+  entropy: 9.741467
+  expected_moves: 2.8598131
+  move: aireo
+  relative_prob: 1.0
+  children:
+    oxooo:
+      entropy: 0.0
+      expected_moves: 1.0
+      move: aereo
+      relative_prob: 0.0011682
+    xx.oo:
+      entropy: 1.0
+      expected_moves: 1.5
+      move: rodeo
+      relative_prob: 0.0023364
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.5
+        ooxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: romeo
+          relative_prob: 0.5
+    xoxoo:
+      entropy: 1.0
+      expected_moves: 1.5
+      move: video
+      relative_prob: 0.0023364
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.5
+        xoxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: liceo
+          relative_prob: 0.5
+    x.xoo:
+      entropy: 0.0
+      expected_moves: 1.0
+      move: igneo
+      relative_prob: 0.0011682
+    .xxoo:
+      entropy: 1.0
+      expected_moves: 1.5
+      move: cameo
+      relative_prob: 0.0023364
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.5
+        xoxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: paseo
+          relative_prob: 0.5
+    xxxoo:
+      entropy: 2.0
+      expected_moves: 1.0
+      move: deseo
+      relative_prob: 0.0046729
+    x.o.o:
+      entropy: 1.0
+      expected_moves: 1.5
+      move: serio
+      relative_prob: 0.0023364
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.5
+        x.ooo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: ebrio
+          relative_prob: 0.5
+    xxo.o:
+      entropy: 2.3219281
+      expected_moves: 1.8
+      move: termo
+      relative_prob: 0.0058411
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.2
+        xooxo:
+          entropy: 2.0
+          expected_moves: 1.0
+          move: cerro
+          relative_prob: 0.8
+    xo..o:
+      entropy: 0.0
+      expected_moves: 1.0
+      move: riego
+      relative_prob: 0.0011682
+    x...o:
+      entropy: 1.5849625
+      expected_moves: 1.6666667
+      move: regio
+      relative_prob: 0.0035047
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.3333333
+        oox.o:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: reino
+          relative_prob: 0.3333333
+        ..x.o:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: erizo
+          relative_prob: 0.3333333
+    ox..o:
+      entropy: 1.0
+      expected_moves: 1.5
+      move: alero
+      relative_prob: 0.0023364
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.5
+        oxooo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: acero
+          relative_prob: 0.5
+    xx..o:
+      entropy: 3.4594316
+      expected_moves: 1.0
+      move: enero
+      relative_prob: 0.0128505
+    xox.o:
+      entropy: 2.5849625
+      expected_moves: 2.3333333
+      move: cielo
+      relative_prob: 0.0070093
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.1666667
+        xoooo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: hielo
+          relative_prob: 0.1666667
+        oooxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: ciego
+          relative_prob: 0.1666667
+        xooxo:
+          entropy: 1.5849625
+          expected_moves: 2.0
+          move: nieto
+          relative_prob: 0.5
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.3333333
+            xooxo:
+              entropy: 1.0
+              expected_moves: 1.5
+              move: viejo
+              relative_prob: 0.6666667
+              children:
+                ooooo:
+                  entropy: 0.0
+                  expected_moves: 0.0
+                  relative_prob: 0.5
+                xooxo:
+                  entropy: 0.0
+                  expected_moves: 1.0
+                  move: miedo
+                  relative_prob: 0.5
+    x.x.o:
+      entropy: 3.0
+      expected_moves: 1.0
+      move: etico
+      relative_prob: 0.0093458
+    oxx.o:
+      entropy: 1.0
+      expected_moves: 1.5
+      move: anexo
+      relative_prob: 0.0023364
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.5
+        o.oxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: ajeno
+          relative_prob: 0.5
+    .xx.o:
+      entropy: 0.0
+      expected_moves: 1.0
+      move: enano
+      relative_prob: 0.0011682
+    xxx.o:
+      entropy: 4.9068906
+      expected_moves: 2.2333333
+      move: lento
+      relative_prob: 0.0350467
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.0333333
+        xoxoo:
+          entropy: 1.5849625
+          expected_moves: 1.6666667
+          move: sexto
+          relative_prob: 0.1
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.3333333
+            xoooo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: texto
+              relative_prob: 0.3333333
+            .oxoo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: cesto
+              relative_prob: 0.3333333
+        xoo.o:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: tengo
+          relative_prob: 0.0333333
+        xox.o:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: techo
+          relative_prob: 0.0333333
+        xooxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: censo
+          relative_prob: 0.0333333
+        o..xo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: lleno
+          relative_prob: 0.0333333
+        '...xo':
+          entropy: 0.0
+          expected_moves: 1.0
+          move: pleno
+          relative_prob: 0.0333333
+        x..xo:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: nuevo
+          relative_prob: 0.0666667
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            .ooxo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: bueno
+              relative_prob: 0.5
+        ooxxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: lecho
+          relative_prob: 0.0333333
+        .oxxo:
+          entropy: 1.5849625
+          expected_moves: 1.6666667
+          move: vello
+          relative_prob: 0.1
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.3333333
+            xoooo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: bello
+              relative_prob: 0.3333333
+            xooxo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: yelmo
+              relative_prob: 0.3333333
+        xoxxo:
+          entropy: 1.5849625
+          expected_moves: 1.6666667
+          move: hecho
+          relative_prob: 0.1
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.3333333
+            xoooo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: pecho
+              relative_prob: 0.3333333
+            xoxxo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: sesgo
+              relative_prob: 0.3333333
+        o.xxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: luego
+          relative_prob: 0.0333333
+        ..xxo:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: suelo
+          relative_prob: 0.0666667
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            xoooo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: duelo
+              relative_prob: 0.5
+        x.xxo:
+          entropy: 3.169925
+          expected_moves: 1.0
+          move: juego
+          relative_prob: 0.3
+    xooxo:
+      entropy: 1.5849625
+      expected_moves: 2.0
+      move: lirio
+      relative_prob: 0.0035047
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.3333333
+        xooxo:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: circo
+          relative_prob: 0.6666667
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            xooxo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: virgo
+              relative_prob: 0.5
+    o.oxo:
+      entropy: 0.0
+      expected_moves: 1.0
+      move: agrio
+      relative_prob: 0.0011682
+    .xoxo:
+      entropy: 2.8073549
+      expected_moves: 2.1428571
+      move: marco
+      relative_prob: 0.0081776
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.1428571
+        xoooo:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: barco
+          relative_prob: 0.2857143
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            xoooo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: narco
+              relative_prob: 0.5
+        xoo.o:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: cargo
+          relative_prob: 0.1428571
+        oooxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: marzo
+          relative_prob: 0.1428571
+        xooxo:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: barro
+          relative_prob: 0.2857143
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            xooxo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: parto
+              relative_prob: 0.5
+    xxoxo:
+      entropy: 3.7004397
+      expected_moves: 1.0
+      move: turco
+      relative_prob: 0.0151869
+    xo.xo:
+      entropy: 2.0
+      expected_moves: 1.75
+      move: libro
+      relative_prob: 0.0046729
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.25
+        ooxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: litro
+          relative_prob: 0.25
+        xoxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: cifro
+          relative_prob: 0.25
+        xox.o:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: ritmo
+          relative_prob: 0.25
+    '...xo':
+      entropy: 1.0
+      expected_moves: 1.5
+      move: radio
+      relative_prob: 0.0023364
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.5
+        .ox.o:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: cairo
+          relative_prob: 0.5
+    x..xo:
+      entropy: 2.0
+      expected_moves: 1.75
+      move: rocio
+      relative_prob: 0.0046729
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.25
+        oxxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: rubio
+          relative_prob: 0.25
+        oxx.o:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: ruido
+          relative_prob: 0.25
+        .xx.o:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: primo
+          relative_prob: 0.25
+    ox.xo:
+      entropy: 0.0
+      expected_moves: 1.0
+      move: antro
+      relative_prob: 0.0011682
+    .x.xo:
+      entropy: 3.169925
+      expected_moves: 1.0
+      move: rasgo
+      relative_prob: 0.010514
+    xx.xo:
+      entropy: 3.8073549
+      expected_moves: 2.1428571
+      move: bruto
+      relative_prob: 0.0163551
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.0714286
+        xoooo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: fruto
+          relative_prob: 0.0714286
+        xox.o:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: trozo
+          relative_prob: 0.0714286
+        oooxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: brujo
+          relative_prob: 0.0714286
+        xooxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: crudo
+          relative_prob: 0.0714286
+        '...xo':
+          entropy: 0.0
+          expected_moves: 1.0
+          move: rumbo
+          relative_prob: 0.0714286
+        x..xo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: sufro
+          relative_prob: 0.0714286
+        ooxxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: bromo
+          relative_prob: 0.0714286
+        xoxxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: cromo
+          relative_prob: 0.0714286
+        ..xxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: rombo
+          relative_prob: 0.0714286
+        x.xxo:
+          entropy: 2.0
+          expected_moves: 1.75
+          move: rompo
+          relative_prob: 0.2857143
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.25
+            ooxxo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: rollo
+              relative_prob: 0.25
+            .oxxo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: logro
+              relative_prob: 0.25
+            ..xxo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: cloro
+              relative_prob: 0.25
+    .oxxo:
+      entropy: 1.0
+      expected_moves: 1.5
+      move: piano
+      relative_prob: 0.0023364
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.5
+        xooxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: hiato
+          relative_prob: 0.5
+    xoxxo:
+      entropy: 4.3219281
+      expected_moves: 2.1
+      move: simio
+      relative_prob: 0.0233645
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.05
+        ooxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: sitio
+          relative_prob: 0.05
+        xoxoo:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: litio
+          relative_prob: 0.1
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            xo.oo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: tibio
+              relative_prob: 0.5
+        xooxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: himno
+          relative_prob: 0.05
+        oo.xo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: sismo
+          relative_prob: 0.05
+        .o.xo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: cismo
+          relative_prob: 0.05
+        xo.xo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: mixto
+          relative_prob: 0.05
+        ooxxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: signo
+          relative_prob: 0.05
+        .oxxo:
+          entropy: 1.5849625
+          expected_moves: 1.6666667
+          move: disco
+          relative_prob: 0.15
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.3333333
+            xoooo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: fisco
+              relative_prob: 0.3333333
+            xooxo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: visto
+              relative_prob: 0.3333333
+        xoxxo:
+          entropy: 3.0
+          expected_moves: 1.0
+          move: hinco
+          relative_prob: 0.4
+    o.xxo:
+      entropy: 2.0
+      expected_moves: 1.0
+      move: amigo
+      relative_prob: 0.0046729
+    ..xxo:
+      entropy: 2.3219281
+      expected_moves: 1.0
+      move: labio
+      relative_prob: 0.0058411
+    x.xxo:
+      entropy: 3.8073549
+      expected_moves: 1.0
+      move: folio
+      relative_prob: 0.0163551
+    oxxxo:
+      entropy: 3.8073549
+      expected_moves: 1.9285714
+      move: apoyo
+      relative_prob: 0.0163551
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.0714286
+        oooxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: apodo
+          relative_prob: 0.0714286
+        oxoxo:
+          entropy: 2.0
+          expected_moves: 1.0
+          move: adobo
+          relative_prob: 0.2857143
+        oxxxo:
+          entropy: 3.0
+          expected_moves: 1.0
+          move: acaso
+          relative_prob: 0.5714286
+    .xxxo:
+      entropy: 5.2094534
+      expected_moves: 2.1081081
+      move: pacto
+      relative_prob: 0.0432243
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.027027
+        .o.oo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: capto
+          relative_prob: 0.027027
+        xo.oo:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: cauto
+          relative_prob: 0.0540541
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            ooxoo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: canto
+              relative_prob: 0.5
+        xoxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: gasto
+          relative_prob: 0.027027
+        o.xoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: plato
+          relative_prob: 0.027027
+        xox.o:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: tango
+          relative_prob: 0.027027
+        xooxo:
+          entropy: 1.5849625
+          expected_moves: 1.6666667
+          move: macho
+          relative_prob: 0.0810811
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.3333333
+            xoooo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: cacho
+              relative_prob: 0.3333333
+            xooxo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: cacao
+              relative_prob: 0.3333333
+        oo.xo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: palco
+          relative_prob: 0.027027
+        .o.xo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: campo
+          relative_prob: 0.027027
+        xo.xo:
+          entropy: 2.3219281
+          expected_moves: 1.0
+          move: calvo
+          relative_prob: 0.1351351
+        x..xo:
+          entropy: 1.5849625
+          expected_moves: 1.6666667
+          move: flaco
+          relative_prob: 0.0810811
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.3333333
+            xoo.o:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: clavo
+              relative_prob: 0.3333333
+            xxo.o:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: ocaso
+              relative_prob: 0.3333333
+        ooxxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: palmo
+          relative_prob: 0.027027
+        xoxxo:
+          entropy: 3.7004397
+          expected_moves: 1.0
+          move: magno
+          relative_prob: 0.3513514
+        o.xxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: plano
+          relative_prob: 0.027027
+        ..xxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: guapo
+          relative_prob: 0.027027
+        x.xxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: ovalo
+          relative_prob: 0.027027
+    xxxxo:
+      entropy: 4.9541963
+      expected_moves: 2.1612903
+      move: combo
+      relative_prob: 0.036215
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.0322581
+        xoooo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: bombo
+          relative_prob: 0.0322581
+        xox.o:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: doblo
+          relative_prob: 0.0645161
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            xo..o:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: bolso
+              relative_prob: 0.5
+        xxx.o:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: busto
+          relative_prob: 0.0322581
+        oo.xo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: colmo
+          relative_prob: 0.0322581
+        xo.xo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: monto
+          relative_prob: 0.0322581
+        x..xo:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: gnomo
+          relative_prob: 0.0645161
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            xxooo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: plomo
+              relative_prob: 0.5
+        xx.xo:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: musgo
+          relative_prob: 0.0645161
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            ooxxo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: mundo
+              relative_prob: 0.5
+        ooxxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: congo
+          relative_prob: 0.0322581
+        xoxxo:
+          entropy: 3.0
+          expected_moves: 1.0
+          move: pollo
+          relative_prob: 0.2580645
+        x.xxo:
+          entropy: 1.5849625
+          expected_moves: 1.6666667
+          move: otoño
+          relative_prob: 0.0967742
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.3333333
+            oxoxo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: ozono
+              relative_prob: 0.3333333
+            oxxxo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: ovulo
+              relative_prob: 0.3333333
+        oxxxo:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: culto
+          relative_prob: 0.0645161
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            o..xo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: chulo
+              relative_prob: 0.5
+        .xxxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: lucho
+          relative_prob: 0.0322581
+        xxxxo:
+          entropy: 2.3219281
+          expected_moves: 1.0
+          move: junto
+          relative_prob: 0.1612903
+    xx.o.:
+      entropy: 3.0
+      expected_moves: 1.875
+      move: moler
+      relative_prob: 0.0093458
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.125
+        xoooo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: doler
+          relative_prob: 0.125
+        .oxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: comer
+          relative_prob: 0.125
+        xoxoo:
+          entropy: 2.0
+          expected_moves: 1.0
+          move: joder
+          relative_prob: 0.5
+        x.xo.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: orden
+          relative_prob: 0.125
+    .xxo.:
+      entropy: 1.5849625
+      expected_moves: 2.0
+      move: polea
+      relative_prob: 0.0035047
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.3333333
+        xoxoo:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: hojea
+          relative_prob: 0.6666667
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            xoxoo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: gotea
+              relative_prob: 0.5
+    xxxo.:
+      entropy: 2.3219281
+      expected_moves: 1.8
+      move: hotel
+      relative_prob: 0.0058411
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.2
+        xoooo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: motel
+          relative_prob: 0.2
+        xoxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: nobel
+          relative_prob: 0.2
+        xoxo.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: polen
+          relative_prob: 0.2
+        xoxox:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: modem
+          relative_prob: 0.2
+    xxo..:
+      entropy: 2.3219281
+      expected_moves: 1.8
+      move: torre
+      relative_prob: 0.0058411
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.2
+        xoooo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: corre
+          relative_prob: 0.2
+        .ooxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: norte
+          relative_prob: 0.2
+        x.o..:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: error
+          relative_prob: 0.2
+        x.ox.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: feroz
+          relative_prob: 0.2
+    .x...:
+      entropy: 0.0
+      expected_moves: 1.0
+      move: opera
+      relative_prob: 0.0011682
+    xx...:
+      entropy: 3.169925
+      expected_moves: 1.0
+      move: menor
+      relative_prob: 0.010514
+    xox..:
+      entropy: 0.0
+      expected_moves: 1.0
+      move: miope
+      relative_prob: 0.0011682
+    .xx..:
+      entropy: 2.3219281
+      expected_moves: 1.8
+      move: leona
+      relative_prob: 0.0058411
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.2
+        x..xo:
+          entropy: 2.0
+          expected_moves: 1.0
+          move: obesa
+          relative_prob: 0.8
+    xxx..:
+      entropy: 3.7004397
+      expected_moves: 2.0769231
+      move: monte
+      relative_prob: 0.0151869
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.0769231
+        x.xoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: oeste
+          relative_prob: 0.0769231
+        xox.o:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: toque
+          relative_prob: 0.0769231
+        oooxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: monje
+          relative_prob: 0.0769231
+        xo.xo:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: noche
+          relative_prob: 0.1538462
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            ooxxo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: noble
+              relative_prob: 0.5
+        xoxxo:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: coche
+          relative_prob: 0.1538462
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            xoxxo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: golpe
+              relative_prob: 0.5
+        x....:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: teson
+          relative_prob: 0.0769231
+        x.x..:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: estoy
+          relative_prob: 0.0769231
+        o..x.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: meson
+          relative_prob: 0.0769231
+        x..x.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: pezon
+          relative_prob: 0.0769231
+        x.xx.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: veloz
+          relative_prob: 0.0769231
+    x.ox.:
+      entropy: 0.0
+      expected_moves: 1.0
+      move: morir
+      relative_prob: 0.0011682
+    oxox.:
+      entropy: 1.0
+      expected_moves: 1.5
+      move: arroz
+      relative_prob: 0.0023364
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.5
+        oxooo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: atroz
+          relative_prob: 0.5
+    .xox.:
+      entropy: 4.0
+      expected_moves: 1.0
+      move: baron
+      relative_prob: 0.0186916
+    xxox.:
+      entropy: 0.0
+      expected_moves: 1.0
+      move: furor
+      relative_prob: 0.0011682
+    xo.x.:
+      entropy: 1.0
+      expected_moves: 1.5
+      move: rigor
+      relative_prob: 0.0023364
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.5
+        xoooo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: vigor
+          relative_prob: 0.5
+    '...x.':
+      entropy: 1.0
+      expected_moves: 1.5
+      move: odiar
+      relative_prob: 0.0023364
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.5
+        oxo..:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: orina
+          relative_prob: 0.5
+    ox.x.:
+      entropy: 1.5849625
+      expected_moves: 1.6666667
+      move: arpon
+      relative_prob: 0.0035047
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.3333333
+        ooxox:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: arbol
+          relative_prob: 0.3333333
+        oox.x:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: aroma
+          relative_prob: 0.3333333
+    .x.x.:
+      entropy: 5.129283
+      expected_moves: 2.3142857
+      move: labor
+      relative_prob: 0.0408879
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.0285714
+        xoooo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: sabor
+          relative_prob: 0.0285714
+        .oxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: calor
+          relative_prob: 0.0285714
+        xoxoo:
+          entropy: 1.5849625
+          expected_moves: 1.6666667
+          move: favor
+          relative_prob: 0.0857143
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.3333333
+            xo.oo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: vapor
+              relative_prob: 0.3333333
+            xoxoo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: mayor
+              relative_prob: 0.3333333
+        x.o.o:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: robar
+          relative_prob: 0.0285714
+        x...o:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: botar
+          relative_prob: 0.0285714
+        ..x.o:
+          entropy: 2.0
+          expected_moves: 2.5
+          move: polar
+          relative_prob: 0.1142857
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.25
+            xoooo:
+              entropy: 1.5849625
+              expected_moves: 2.0
+              move: dolar
+              relative_prob: 0.75
+              children:
+                ooooo:
+                  entropy: 0.0
+                  expected_moves: 0.0
+                  relative_prob: 0.3333333
+                xoooo:
+                  entropy: 1.0
+                  expected_moves: 1.5
+                  move: volar
+                  relative_prob: 0.6666667
+                  children:
+                    ooooo:
+                      entropy: 0.0
+                      expected_moves: 0.0
+                      relative_prob: 0.5
+                    xoooo:
+                      entropy: 0.0
+                      expected_moves: 1.0
+                      move: solar
+                      relative_prob: 0.5
+        x.x.o:
+          entropy: 3.169925
+          expected_moves: 1.0
+          move: posar
+          relative_prob: 0.2571429
+        xoxo.:
+          entropy: 1.5849625
+          expected_moves: 2.0
+          move: razon
+          relative_prob: 0.0857143
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.3333333
+            ooxoo:
+              entropy: 1.0
+              expected_moves: 1.5
+              move: rayon
+              relative_prob: 0.6666667
+              children:
+                ooooo:
+                  entropy: 0.0
+                  expected_moves: 0.0
+                  relative_prob: 0.5
+                ooxoo:
+                  entropy: 0.0
+                  expected_moves: 1.0
+                  move: raton
+                  relative_prob: 0.5
+        x.o..:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: sobra
+          relative_prob: 0.0571429
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            xoooo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: cobra
+              relative_prob: 0.5
+        x....:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: broma
+          relative_prob: 0.0285714
+        ..x..:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: flora
+          relative_prob: 0.0285714
+        x.x..:
+          entropy: 2.8073549
+          expected_moves: 1.0
+          move: troya
+          relative_prob: 0.2
+    xx.x.:
+      entropy: 3.4594316
+      expected_moves: 1.0
+      move: rotor
+      relative_prob: 0.0128505
+    .oxx.:
+      entropy: 1.0
+      expected_moves: 1.5
+      move: diosa
+      relative_prob: 0.0023364
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.5
+        xo.x.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: oigan
+          relative_prob: 0.5
+    xoxx.:
+      entropy: 1.5849625
+      expected_moves: 1.6666667
+      move: limon
+      relative_prob: 0.0035047
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.3333333
+        xoxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: sifon
+          relative_prob: 0.3333333
+        xoxox:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: pivot
+          relative_prob: 0.3333333
+    o.xx.:
+      entropy: 0.0
+      expected_moves: 1.0
+      move: avion
+      relative_prob: 0.0011682
+    ..xx.:
+      entropy: 2.3219281
+      expected_moves: 1.0
+      move: obvia
+      relative_prob: 0.0058411
+    x.xx.:
+      entropy: 2.8073549
+      expected_moves: 1.0
+      move: union
+      relative_prob: 0.0081776
+    .xxx.:
+      entropy: 4.7004397
+      expected_moves: 2.3076923
+      move: laton
+      relative_prob: 0.0303738
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.0384615
+        xoooo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: baton
+          relative_prob: 0.0384615
+        xoxoo:
+          entropy: 2.3219281
+          expected_moves: 1.0
+          move: jabon
+          relative_prob: 0.1923077
+        xoxo.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: canoa
+          relative_prob: 0.0384615
+        x....:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: tonta
+          relative_prob: 0.0384615
+        x.x..:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: monja
+          relative_prob: 0.0384615
+        x.xox:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: cocoa
+          relative_prob: 0.0384615
+        ..o.x:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: total
+          relative_prob: 0.0384615
+        '....x':
+          entropy: 0.0
+          expected_moves: 1.0
+          move: flota
+          relative_prob: 0.0384615
+        x...x:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: costa
+          relative_prob: 0.0384615
+        xox.x:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: caoba
+          relative_prob: 0.0384615
+        o.x.x:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: local
+          relative_prob: 0.0384615
+        ..x.x:
+          entropy: 2.0
+          expected_moves: 1.75
+          move: bolsa
+          relative_prob: 0.1538462
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.25
+            xo.xo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: koala
+              relative_prob: 0.25
+            x..xo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: floja
+              relative_prob: 0.25
+            xo.x.:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: modal
+              relative_prob: 0.25
+        x.x.x:
+          entropy: 2.5849625
+          expected_moves: 2.0
+          move: mosca
+          relative_prob: 0.2307692
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.1666667
+            x.xoo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: choca
+              relative_prob: 0.1666667
+            x.x.o:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: ocupa
+              relative_prob: 0.1666667
+            .oxxo:
+              entropy: 1.0
+              expected_moves: 1.5
+              move: dogma
+              relative_prob: 0.3333333
+              children:
+                ooooo:
+                  entropy: 0.0
+                  expected_moves: 0.0
+                  relative_prob: 0.5
+                xox.o:
+                  entropy: 0.0
+                  expected_moves: 1.0
+                  move: bomba
+                  relative_prob: 0.5
+            oo.x.:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: modas
+              relative_prob: 0.1666667
+    xxxx.:
+      entropy: 2.5849625
+      expected_moves: 2.0
+      move: buzon
+      relative_prob: 0.0070093
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.1666667
+        ooxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: bufon
+          relative_prob: 0.1666667
+        xoxoo:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: futon
+          relative_prob: 0.3333333
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            xoxoo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: cupon
+              relative_prob: 0.5
+        xxxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: foton
+          relative_prob: 0.1666667
+        x.x..:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: donut
+          relative_prob: 0.1666667
+    oxoox:
+      entropy: 0.0
+      expected_moves: 1.0
+      move: aerea
+      relative_prob: 0.0011682
+    .xoox:
+      entropy: 1.5849625
+      expected_moves: 1.6666667
+      move: marea
+      relative_prob: 0.0035047
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.3333333
+        xoooo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: tarea
+          relative_prob: 0.3333333
+        xooox:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: pared
+          relative_prob: 0.3333333
+    xo.ox:
+      entropy: 0.0
+      expected_moves: 1.0
+      move: lider
+      relative_prob: 0.0011682
+    ox.ox:
+      entropy: 1.0
+      expected_moves: 1.5
+      move: arder
+      relative_prob: 0.0023364
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.5
+        oooox:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: arden
+          relative_prob: 0.5
+    .x.ox:
+      entropy: 1.5849625
+      expected_moves: 1.6666667
+      move: caber
+      relative_prob: 0.0035047
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.3333333
+        xoxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: laser
+          relative_prob: 0.3333333
+        xoxo.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: rapel
+          relative_prob: 0.3333333
+    xx.ox:
+      entropy: 3.169925
+      expected_moves: 1.0
+      move: tener
+      relative_prob: 0.010514
+    .oxox:
+      entropy: 0.0
+      expected_moves: 1.0
+      move: linea
+      relative_prob: 0.0011682
+    xoxox:
+      entropy: 1.5849625
+      expected_moves: 1.6666667
+      move: nivel
+      relative_prob: 0.0035047
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.3333333
+        xoxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: pixel
+          relative_prob: 0.3333333
+        xoxox:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: bidet
+          relative_prob: 0.3333333
+    o.xox:
+      entropy: 0.0
+      expected_moves: 1.0
+      move: alien
+      relative_prob: 0.0011682
+    x.xox:
+      entropy: 0.0
+      expected_moves: 1.0
+      move: quien
+      relative_prob: 0.0011682
+    oxxox:
+      entropy: 2.0
+      expected_moves: 1.75
+      move: andes
+      relative_prob: 0.0046729
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.25
+        ooxox:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: angel
+          relative_prob: 0.25
+        o.xox:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: apnea
+          relative_prob: 0.25
+        oxxox:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: aquel
+          relative_prob: 0.25
+    .xxox:
+      entropy: 2.3219281
+      expected_moves: 1.0
+      move: pelea
+      relative_prob: 0.0058411
+    xxxox:
+      entropy: 2.0
+      expected_moves: 1.75
+      move: tunel
+      relative_prob: 0.0046729
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.25
+        xx.o.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: belen
+          relative_prob: 0.25
+        ..xox:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: usted
+          relative_prob: 0.25
+        xxxox:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: vejez
+          relative_prob: 0.25
+    xoo.x:
+      entropy: 0.0
+      expected_moves: 1.0
+      move: firme
+      relative_prob: 0.0011682
+    ..o.x:
+      entropy: 1.5849625
+      expected_moves: 1.6666667
+      move: feria
+      relative_prob: 0.0035047
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.3333333
+        xoooo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: seria
+          relative_prob: 0.3333333
+        x.oo.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: carie
+          relative_prob: 0.3333333
+    x.o.x:
+      entropy: 1.0
+      expected_moves: 1.5
+      move: herir
+      relative_prob: 0.0023364
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.5
+        xooox:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: serie
+          relative_prob: 0.5
+    .xo.x:
+      entropy: 3.169925
+      expected_moves: 1.8888889
+      move: terna
+      relative_prob: 0.010514
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.1111111
+        xooxo:
+          entropy: 2.3219281
+          expected_moves: 1.0
+          move: perla
+          relative_prob: 0.5555556
+        x.oo.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: carne
+          relative_prob: 0.1111111
+        o.ox.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: tarde
+          relative_prob: 0.1111111
+        ..ox.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: parte
+          relative_prob: 0.1111111
+    .o..x:
+      entropy: 0.0
+      expected_moves: 1.0
+      move: fiera
+      relative_prob: 0.0011682
+    xo..x:
+      entropy: 1.5849625
+      expected_moves: 1.6666667
+      move: tigre
+      relative_prob: 0.0035047
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.3333333
+        xoxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: libre
+          relative_prob: 0.3333333
+        xox.o:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: rifle
+          relative_prob: 0.3333333
+    '....x':
+      entropy: 0.0
+      expected_moves: 1.0
+      move: reina
+      relative_prob: 0.0011682
+    x...x:
+      entropy: 2.5849625
+      expected_moves: 2.0
+      move: decir
+      relative_prob: 0.0070093
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.1666667
+        .oxoo:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: pedir
+          relative_prob: 0.3333333
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            xoooo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: medir
+              relative_prob: 0.5
+        xoxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: teñir
+          relative_prob: 0.1666667
+        x.xoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: freir
+          relative_prob: 0.1666667
+        x.x..:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: gripe
+          relative_prob: 0.1666667
+    ox..x:
+      entropy: 2.0
+      expected_moves: 1.75
+      move: arepa
+      relative_prob: 0.0046729
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.25
+        oooxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: arena
+          relative_prob: 0.25
+        o.oxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: acera
+          relative_prob: 0.25
+        oo.x.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: arabe
+          relative_prob: 0.25
+    .x..x:
+      entropy: 5.0
+      expected_moves: 2.40625
+      move: cenar
+      relative_prob: 0.0373832
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.03125
+        xo.oo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: negar
+          relative_prob: 0.03125
+        ooxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: cegar
+          relative_prob: 0.03125
+        .oxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: pecar
+          relative_prob: 0.03125
+        xoxoo:
+          entropy: 3.3219281
+          expected_moves: 2.1
+          move: segar
+          relative_prob: 0.3125
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.1
+            xoooo:
+              entropy: 1.0
+              expected_moves: 1.5
+              move: pegar
+              relative_prob: 0.2
+              children:
+                ooooo:
+                  entropy: 0.0
+                  expected_moves: 0.0
+                  relative_prob: 0.5
+                xoooo:
+                  entropy: 0.0
+                  expected_moves: 1.0
+                  move: regar
+                  relative_prob: 0.5
+            ooxoo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: sedar
+              relative_prob: 0.1
+            .oxoo:
+              entropy: 1.0
+              expected_moves: 1.5
+              move: besar
+              relative_prob: 0.2
+              children:
+                ooooo:
+                  entropy: 0.0
+                  expected_moves: 0.0
+                  relative_prob: 0.5
+                xoooo:
+                  entropy: 0.0
+                  expected_moves: 1.0
+                  move: pesar
+                  relative_prob: 0.5
+            xoxoo:
+              entropy: 2.0
+              expected_moves: 1.0
+              move: pelar
+              relative_prob: 0.4
+        o.xoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: crear
+          relative_prob: 0.03125
+        xoxo.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: relax
+          relative_prob: 0.03125
+        xo...:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: negra
+          relative_prob: 0.03125
+        x....:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: nuera
+          relative_prob: 0.03125
+        .ox..:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: recta
+          relative_prob: 0.03125
+        xox..:
+          entropy: 2.0
+          expected_moves: 1.75
+          move: letra
+          relative_prob: 0.125
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.25
+            ooxoo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: lepra
+              relative_prob: 0.25
+            xoxoo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: hebra
+              relative_prob: 0.25
+            .ox.o:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: regla
+              relative_prob: 0.25
+        o.x..:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: crema
+          relative_prob: 0.03125
+        x.x..:
+          entropy: 3.0
+          expected_moves: 1.0
+          move: fresa
+          relative_prob: 0.25
+    xx..x:
+      entropy: 1.5849625
+      expected_moves: 1.6666667
+      move: lemur
+      relative_prob: 0.0035047
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.3333333
+        xoooo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: femur
+          relative_prob: 0.3333333
+        x.x..:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: cruce
+          relative_prob: 0.3333333
+    .ox.x:
+      entropy: 2.8073549
+      expected_moves: 1.0
+      move: vieja
+      relative_prob: 0.0081776
+    xox.x:
+      entropy: 2.3219281
+      expected_moves: 1.8
+      move: siete
+      relative_prob: 0.0058411
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.2
+        xoxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: tinte
+          relative_prob: 0.2
+        xox.o:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: tilde
+          relative_prob: 0.2
+        xooxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: nieve
+          relative_prob: 0.2
+        .oxxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: cisne
+          relative_prob: 0.2
+    ..x.x:
+      entropy: 3.3219281
+      expected_moves: 1.9
+      move: ilesa
+      relative_prob: 0.0116822
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.1
+        .x..o:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: espia
+          relative_prob: 0.1
+        .x.xo:
+          entropy: 2.5849625
+          expected_moves: 1.0
+          move: encia
+          relative_prob: 0.6
+        o.ox.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: ideal
+          relative_prob: 0.1
+        .x.x.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: nadie
+          relative_prob: 0.1
+    x.x.x:
+      entropy: 3.169925
+      expected_moves: 2.0
+      move: tenis
+      relative_prob: 0.010514
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.1111111
+        ooxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: tesis
+          relative_prob: 0.1111111
+        x.x..:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: esqui
+          relative_prob: 0.1111111
+        xooox:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: fenix
+          relative_prob: 0.1111111
+        xoxox:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: feliz
+          relative_prob: 0.2222222
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            xo.ox:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: debil
+              relative_prob: 0.5
+        xo..x:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: peine
+          relative_prob: 0.1111111
+        x...x:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: ingle
+          relative_prob: 0.1111111
+        x.x.x:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: chile
+          relative_prob: 0.1111111
+    oxx.x:
+      entropy: 2.3219281
+      expected_moves: 2.0
+      move: abeja
+      relative_prob: 0.0058411
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.2
+        oxo.o:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: ajena
+          relative_prob: 0.2
+        o.oxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: ameba
+          relative_prob: 0.2
+        oxoxo:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: avena
+          relative_prob: 0.4
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            oxoxo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: aleta
+              relative_prob: 0.5
+    .xx.x:
+      entropy: 5.2854022
+      expected_moves: 2.1282051
+      move: clase
+      relative_prob: 0.0455607
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.025641
+        oooxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: clave
+          relative_prob: 0.025641
+        xxoxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: peaje
+          relative_prob: 0.025641
+        o..xo:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: calle
+          relative_prob: 0.0512821
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            ooxoo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: cable
+              relative_prob: 0.5
+        x..xo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: valle
+          relative_prob: 0.025641
+        ox.xo:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: cauce
+          relative_prob: 0.0512821
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            ooxxo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: canje
+              relative_prob: 0.5
+        xx.xo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: jaque
+          relative_prob: 0.025641
+        x....:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: selva
+          relative_prob: 0.0512821
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            oo.x.:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: señal
+              relative_prob: 0.5
+        ox...:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: cesta
+          relative_prob: 0.025641
+        .x...:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: secta
+          relative_prob: 0.0512821
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            .o.xo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: pesca
+              relative_prob: 0.5
+        xx...:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: suena
+          relative_prob: 0.0512821
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            oooxo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: sueña
+              relative_prob: 0.5
+        xxox.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: enana
+          relative_prob: 0.025641
+        xo.x.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: plena
+          relative_prob: 0.025641
+        o..x.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: celta
+          relative_prob: 0.025641
+        '...x.':
+          entropy: 0.0
+          expected_moves: 1.0
+          move: tecla
+          relative_prob: 0.025641
+        x..x.:
+          entropy: 3.0
+          expected_moves: 1.0
+          move: letal
+          relative_prob: 0.2051282
+        ox.x.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: cueva
+          relative_prob: 0.025641
+        .x.x.:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: fecha
+          relative_prob: 0.0512821
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            x..xo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: mueca
+              relative_prob: 0.5
+        xx.x.:
+          entropy: 3.0
+          expected_moves: 1.0
+          move: buena
+          relative_prob: 0.2051282
+    xxx.x:
+      entropy: 2.5849625
+      expected_moves: 2.0
+      move: nueve
+      relative_prob: 0.0070093
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.1666667
+        .x.xo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: mente
+          relative_prob: 0.1666667
+        xx.xo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: leche
+          relative_prob: 0.1666667
+        xoxxo:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: duque
+          relative_prob: 0.3333333
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            ooxxo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: dulce
+              relative_prob: 0.5
+        '...xx':
+          entropy: 0.0
+          expected_moves: 1.0
+          move: segun
+          relative_prob: 0.1666667
+    .ooxx:
+      entropy: 2.0
+      expected_moves: 1.75
+      move: tirar
+      relative_prob: 0.0046729
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.25
+        xoooo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: virar
+          relative_prob: 0.25
+        xooox:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: viral
+          relative_prob: 0.25
+        xoo.x:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: firma
+          relative_prob: 0.25
+    o.oxx:
+      entropy: 2.0
+      expected_moves: 1.75
+      move: abril
+      relative_prob: 0.0046729
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.25
+        oxooo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: atril
+          relative_prob: 0.25
+        oooox:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: abrir
+          relative_prob: 0.25
+        oxoox:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: agria
+          relative_prob: 0.25
+    ..oxx:
+      entropy: 1.0
+      expected_moves: 1.5
+      move: nariz
+      relative_prob: 0.0023364
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.5
+        x.oox:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: furia
+          relative_prob: 0.5
+    x.oxx:
+      entropy: 0.0
+      expected_moves: 1.0
+      move: cursi
+      relative_prob: 0.0011682
+    .xoxx:
+      entropy: 3.9068906
+      expected_moves: 1.0
+      move: curva
+      relative_prob: 0.0175234
+    .o.xx:
+      entropy: 3.7004397
+      expected_moves: 2.0769231
+      move: risas
+      relative_prob: 0.0151869
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.0769231
+        ooxox:
+          entropy: 1.5849625
+          expected_moves: 1.6666667
+          move: rifar
+          relative_prob: 0.2307692
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.3333333
+            ooxoo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: rimar
+              relative_prob: 0.3333333
+            ooxox:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: rival
+              relative_prob: 0.3333333
+        .oxox:
+          entropy: 2.0
+          expected_moves: 1.0
+          move: citar
+          relative_prob: 0.3076923
+        .o..x:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: sidra
+          relative_prob: 0.0769231
+        .ox.x:
+          entropy: 2.0
+          expected_moves: 1.0
+          move: cifra
+          relative_prob: 0.3076923
+    xo.xx:
+      entropy: 0.0
+      expected_moves: 1.0
+      move: vivir
+      relative_prob: 0.0011682
+    o..xx:
+      entropy: 1.0
+      expected_moves: 1.5
+      move: arpia
+      relative_prob: 0.0023364
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.5
+        o.x..:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: aliar
+          relative_prob: 0.5
+    '...xx':
+      entropy: 3.7004397
+      expected_moves: 2.0769231
+      move: prisa
+      relative_prob: 0.0151869
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.0769231
+        x...o:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: rusia
+          relative_prob: 0.0769231
+        oooxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: prima
+          relative_prob: 0.0769231
+        xooxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: frita
+          relative_prob: 0.0769231
+        x.oxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: ruina
+          relative_prob: 0.0769231
+        x..xo:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: rubia
+          relative_prob: 0.1538462
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            oxooo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: rabia
+              relative_prob: 0.5
+        x....:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: salir
+          relative_prob: 0.0769231
+        xoox.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: criar
+          relative_prob: 0.0769231
+        x.ox.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: guiar
+          relative_prob: 0.0769231
+        '...x.':
+          entropy: 0.0
+          expected_moves: 1.0
+          move: impar
+          relative_prob: 0.0769231
+        x..x.:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: latir
+          relative_prob: 0.1538462
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            xoooo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: batir
+              relative_prob: 0.5
+    x..xx:
+      entropy: 2.0
+      expected_moves: 1.75
+      move: lucir
+      relative_prob: 0.0046729
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.25
+        xoxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: subir
+          relative_prob: 0.25
+        ..xoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: fluir
+          relative_prob: 0.25
+        x.x..:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: tribu
+          relative_prob: 0.25
+    ox.xx:
+      entropy: 2.8073549
+      expected_moves: 1.8571429
+      move: andar
+      relative_prob: 0.0081776
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.1428571
+        oxxoo:
+          entropy: 2.0
+          expected_moves: 1.0
+          move: armar
+          relative_prob: 0.5714286
+        oxxxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: albur
+          relative_prob: 0.1428571
+        oxx..:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: araña
+          relative_prob: 0.1428571
+    .x.xx:
+      entropy: 5.2094534
+      expected_moves: 2.1351351
+      move: jugar
+      relative_prob: 0.0432243
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.027027
+        xoooo:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: lugar
+          relative_prob: 0.0540541
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            xoooo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: fugar
+              relative_prob: 0.5
+        xxooo:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: cagar
+          relative_prob: 0.0540541
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            xoooo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: pagar
+              relative_prob: 0.5
+        xx.oo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: ganar
+          relative_prob: 0.027027
+        xoxoo:
+          entropy: 2.3219281
+          expected_moves: 1.8
+          move: lunar
+          relative_prob: 0.1351351
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.2
+            xoxoo:
+              entropy: 2.0
+              expected_moves: 1.0
+              move: mudar
+              relative_prob: 0.8
+        .xxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: bajar
+          relative_prob: 0.027027
+        xxxoo:
+          entropy: 3.3219281
+          expected_moves: 1.0
+          move: cazar
+          relative_prob: 0.2702703
+        xxo..:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: magra
+          relative_prob: 0.027027
+        xx...:
+          entropy: 2.0
+          expected_moves: 1.0
+          move: grasa
+          relative_prob: 0.1081081
+        ..x..:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: bruja
+          relative_prob: 0.027027
+        x.x..:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: fruta
+          relative_prob: 0.027027
+        xxx..:
+          entropy: 3.0
+          expected_moves: 1.0
+          move: trama
+          relative_prob: 0.2162162
+    xx.xx:
+      entropy: 0.0
+      expected_moves: 1.0
+      move: rugby
+      relative_prob: 0.0011682
+    .oxxx:
+      entropy: 4.0
+      expected_moves: 2.1875
+      move: liana
+      relative_prob: 0.0186916
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.0625
+        oox.o:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: linda
+          relative_prob: 0.0625
+        xox.o:
+          entropy: 1.5849625
+          expected_moves: 2.0
+          move: ninja
+          relative_prob: 0.1875
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.3333333
+            xooxo:
+              entropy: 1.0
+              expected_moves: 1.5
+              move: pinza
+              relative_prob: 0.6666667
+              children:
+                ooooo:
+                  entropy: 0.0
+                  expected_moves: 0.0
+                  relative_prob: 0.5
+                xooxo:
+                  entropy: 0.0
+                  expected_moves: 1.0
+                  move: tinta
+                  relative_prob: 0.5
+        ooxxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: lista
+          relative_prob: 0.0625
+        .oxxo:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: villa
+          relative_prob: 0.125
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            xoooo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: silla
+              relative_prob: 0.5
+        xoxxo:
+          entropy: 2.8073549
+          expected_moves: 1.0
+          move: pista
+          relative_prob: 0.4375
+        xo..x:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: titan
+          relative_prob: 0.0625
+    xoxxx:
+      entropy: 1.0
+      expected_moves: 1.5
+      move: civil
+      relative_prob: 0.0023364
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.5
+        xoxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: misil
+          relative_prob: 0.5
+    o.xxx:
+      entropy: 1.5849625
+      expected_moves: 1.6666667
+      move: amiga
+      relative_prob: 0.0035047
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.3333333
+        oxoxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: acida
+          relative_prob: 0.3333333
+        ox.xo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: ansia
+          relative_prob: 0.3333333
+    ..xxx:
+      entropy: 4.3923174
+      expected_moves: 2.1428571
+      move: latin
+      relative_prob: 0.0245327
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.047619
+        xoxo.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: mania
+          relative_prob: 0.047619
+        x.xo.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: india
+          relative_prob: 0.047619
+        x.x..:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: unica
+          relative_prob: 0.0952381
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            x.o.o:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: china
+              relative_prob: 0.5
+        .ooox:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: datil
+          relative_prob: 0.047619
+        xo.ox:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: tapiz
+          relative_prob: 0.047619
+        ooxox:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: lapiz
+          relative_prob: 0.047619
+        .oxox:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: facil
+          relative_prob: 0.0952381
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            xoxoo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: habil
+              relative_prob: 0.5
+        xoxox:
+          entropy: 2.0
+          expected_moves: 1.0
+          move: mafia
+          relative_prob: 0.1904762
+        x.xox:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: sucia
+          relative_prob: 0.047619
+        oox.x:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: laica
+          relative_prob: 0.047619
+        .ox.x:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: baila
+          relative_prob: 0.047619
+        xox.x:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: caida
+          relative_prob: 0.047619
+        x.x.x:
+          entropy: 1.5849625
+          expected_moves: 1.6666667
+          move: suiza
+          relative_prob: 0.1428571
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.3333333
+            xooxo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: huida
+              relative_prob: 0.3333333
+            xxoxo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: chica
+              relative_prob: 0.3333333
+    x.xxx:
+      entropy: 2.0
+      expected_moves: 1.75
+      move: sutil
+      relative_prob: 0.0046729
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.25
+        .oxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: fusil
+          relative_prob: 0.25
+        ..o.x:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: ictus
+          relative_prob: 0.25
+        oox.x:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: sushi
+          relative_prob: 0.25
+    oxxxx:
+      entropy: 3.4594316
+      expected_moves: 1.9090909
+      move: aguda
+      relative_prob: 0.0128505
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.0909091
+        oxooo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: ayuda
+          relative_prob: 0.0909091
+        oxxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: azada
+          relative_prob: 0.0909091
+        oooxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: aguja
+          relative_prob: 0.0909091
+        ox.xo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: actua
+          relative_prob: 0.0909091
+        o.xxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: apaga
+          relative_prob: 0.0909091
+        oxxxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: apaña
+          relative_prob: 0.0909091
+        ox...:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: ataud
+          relative_prob: 0.0909091
+        oxox.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: anual
+          relative_prob: 0.0909091
+        o..xx:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: algun
+          relative_prob: 0.0909091
+        ox.xx:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: album
+          relative_prob: 0.0909091
+    .xxxx:
+      entropy: 6.129283
+      expected_moves: 2.3857143
+      move: manta
+      relative_prob: 0.0817757
+      children:
+        ooooo:
+          entropy: 0.0
+          expected_moves: 0.0
+          relative_prob: 0.0142857
+        xxooo:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: punta
+          relative_prob: 0.0285714
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            xoooo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: junta
+              relative_prob: 0.5
+        ooxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: malta
+          relative_prob: 0.0142857
+        xoxoo:
+          entropy: 2.0
+          expected_moves: 1.75
+          move: pauta
+          relative_prob: 0.0571429
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.25
+            ooxoo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: pasta
+              relative_prob: 0.25
+            .oxoo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: capta
+              relative_prob: 0.25
+            xoxoo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: falta
+              relative_prob: 0.25
+        x.xoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: plata
+          relative_prob: 0.0142857
+        oxxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: multa
+          relative_prob: 0.0142857
+        xxxoo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: culta
+          relative_prob: 0.0142857
+        xox.o:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: tabla
+          relative_prob: 0.0142857
+        oooxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: mansa
+          relative_prob: 0.0142857
+        xooxo:
+          entropy: 2.0
+          expected_moves: 1.75
+          move: banda
+          relative_prob: 0.0571429
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.25
+            xoooo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: panda
+              relative_prob: 0.25
+            xoo.o:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: danza
+              relative_prob: 0.25
+            xooxo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: gansa
+              relative_prob: 0.25
+        xxoxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: nunca
+          relative_prob: 0.0142857
+        oo.xo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: magna
+          relative_prob: 0.0142857
+        xo.xo:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: sauna
+          relative_prob: 0.0285714
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            xoooo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: fauna
+              relative_prob: 0.5
+        x..xo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: plana
+          relative_prob: 0.0142857
+        ooxxo:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: mamba
+          relative_prob: 0.0285714
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            oo.xo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: magma
+              relative_prob: 0.5
+        .oxxo:
+          entropy: 2.3219281
+          expected_moves: 1.0
+          move: calma
+          relative_prob: 0.0714286
+        xoxxo:
+          entropy: 3.5849625
+          expected_moves: 1.0
+          move: calca
+          relative_prob: 0.1714286
+        ..xxo:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: flama
+          relative_prob: 0.0285714
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            xoooo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: llama
+              relative_prob: 0.5
+        x.xxo:
+          entropy: 2.8073549
+          expected_moves: 1.8571429
+          move: llaga
+          relative_prob: 0.1
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.1428571
+            xoooo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: plaga
+              relative_prob: 0.1428571
+            xxo.o:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: guapa
+              relative_prob: 0.1428571
+            xooxo:
+              entropy: 2.0
+              expected_moves: 1.0
+              move: placa
+              relative_prob: 0.5714286
+        .xxxo:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: pluma
+          relative_prob: 0.0142857
+        xxxxo:
+          entropy: 2.5849625
+          expected_moves: 1.8333333
+          move: dupla
+          relative_prob: 0.0857143
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.1666667
+            x.xoo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: chula
+              relative_prob: 0.1666667
+            xo..o:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: pulpa
+              relative_prob: 0.1666667
+            xox.o:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: lucha
+              relative_prob: 0.1666667
+            x.x.o:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: blusa
+              relative_prob: 0.1666667
+            ooxxo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: ducha
+              relative_prob: 0.1666667
+        xoox.:
+          entropy: 1.5849625
+          expected_moves: 2.0
+          move: canal
+          relative_prob: 0.0428571
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.3333333
+            xoooo:
+              entropy: 1.0
+              expected_moves: 1.5
+              move: panal
+              relative_prob: 0.6666667
+              children:
+                ooooo:
+                  entropy: 0.0
+                  expected_moves: 0.0
+                  relative_prob: 0.5
+                xoooo:
+                  entropy: 0.0
+                  expected_moves: 1.0
+                  move: banal
+                  relative_prob: 0.5
+        xo.x.:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: nadal
+          relative_prob: 0.0142857
+        xoxx.:
+          entropy: 2.0
+          expected_moves: 1.75
+          move: pañal
+          relative_prob: 0.0571429
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.25
+            xoxoo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: cabal
+              relative_prob: 0.25
+            .oxox:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: capaz
+              relative_prob: 0.25
+            xoxox:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: kayak
+              relative_prob: 0.25
+        oox.x:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: mamut
+          relative_prob: 0.0142857
+        .oxxx:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: bambu
+          relative_prob: 0.0142857
+        xoxxx:
+          entropy: 0.0
+          expected_moves: 1.0
+          move: salud
+          relative_prob: 0.0142857
+        x.xxx:
+          entropy: 1.0
+          expected_moves: 1.5
+          move: puñal
+          relative_prob: 0.0285714
+          children:
+            ooooo:
+              entropy: 0.0
+              expected_moves: 0.0
+              relative_prob: 0.5
+            x.xoo:
+              entropy: 0.0
+              expected_moves: 1.0
+              move: usual
+              relative_prob: 0.5

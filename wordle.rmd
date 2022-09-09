@@ -1,0 +1,24 @@
+---
+title: "Wordle analysis"
+output: html_notebook
+---
+
+```{r}
+library("tidyverse")
+data <- read.csv("./wordle/data/wordle_puntos.csv")
+data.grouped <- data %>% 
+  group_by(persona, puntos) %>%
+  summarise(
+    puntos = cur_group()[["puntos"]],
+    freq = 100 * n() / dim(data[data["persona"] == cur_group()[["persona"]], ])[1]
+  )
+g <- ggplot(data.grouped, aes(x=puntos, y=freq, fill=persona)) + 
+  geom_bar(stat="identity", position=position_dodge())
+g
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you e the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
